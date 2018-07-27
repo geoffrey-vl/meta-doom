@@ -24,10 +24,7 @@ This layer depends on:
 Patches
 =======
 
-Please submit any patches against the meta-doom layer to the
-xxxx mailing list (xxxx@zzzz.org) and cc: the maintainer:
-
-Maintainer: XXX YYYYYY <xxx.yyyyyy@zzzzz.com>
+Please submit any patches against the meta-doom layer through https://github.com/geoffrey-vl/meta-doom
 
 
 Table of Contents
@@ -38,9 +35,7 @@ Table of Contents
 
 
 I. Adding the meta-doom layer to your build
-=================================================
-
---- replace with specific instructions for the meta-doom layer ---
+===========================================
 
 In order to use this layer, you need to make the build system aware of
 it.
@@ -61,4 +56,10 @@ other layers needed. e.g.:
 II. Misc
 ========
 
---- replace with specific information about the meta-doom layer ---
+This layer provides the Chocolate-doom game engine, a fork of the original doom engine used for the 90's game. The meta-layer also provides Freedoom as free to use game assets. Combined t provides a free-to-play implementation of doom. You may also want to add your own WAD files through your own recipes.
+
+*Note: Get a [shareware WAD](http://www.pc-freak.net/files/doom-wad-files/Doom1.WAD) if you don't own the game.*
+
+## Screenshots
+![Freedoom Screenshot](freedoom.png)
+
