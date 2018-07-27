@@ -14,7 +14,7 @@ SRC_URI[sha256sum] = "aac52a0b26cd43d6723874feca4bb7c5ea9fd42a04e1be1f07b2c3557b
 
 
 inherit autotools-brokensep gettext pkgconfig
-				"
+
 
 S = "${WORKDIR}/chocolate-doom-chocolate-doom-${PV}"
 
