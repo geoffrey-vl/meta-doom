@@ -34,8 +34,7 @@ Table of Contents
  II. Misc
 
 
-I. Adding the meta-doom layer to your build
-===========================================
+## I. Adding the meta-doom layer to your build
 
 In order to use this layer, you need to make the build system aware of
 it.
@@ -53,13 +52,11 @@ other layers needed. e.g.:
     "
 
 
-II. Misc
-========
+## II. Misc
 
 This layer provides the Chocolate-doom game engine, a fork of the original doom engine used for the 90's game. The meta-layer also provides Freedoom as free to use game assets. Combined t provides a free-to-play implementation of doom. You may also want to add your own WAD files through your own recipes.
 
 *Note: Get a [shareware WAD](http://www.pc-freak.net/files/doom-wad-files/Doom1.WAD) if you don't own the game.*
 
-## Screenshots
 ![Freedoom Screenshot](freedoom.png)
 
